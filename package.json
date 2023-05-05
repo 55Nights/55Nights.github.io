@@ -1,5 +1,5 @@
 {
-	"name": "fcc-learn-npm-package-json",
+	"name": "i-am-learning-node-and-express",
 	"description": "How to use node js",
 	"author": "Henry Pena",
 	"dependencies": {
@@ -12,5 +12,8 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
+	},
+    "keywords":[ "freecodecamp", "freecodecamp", "coding" ],
+    "license": "Open Source",
+    "version": "1.1.13"
 }
